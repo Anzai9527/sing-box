@@ -40,10 +40,6 @@
 
 脚本的参数非常高效率并且超级易用，请掌握参数的使用
 
-# 文档
-
-安装及使用：https://233boy.com/sing-box/sing-box-script/
-
 # 帮助
 
 使用：`sing-box help`

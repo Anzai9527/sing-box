@@ -4,11 +4,6 @@ caddy_config() {
     new)
         mkdir -p $is_caddy_dir $is_caddy_dir/sites $is_caddy_conf
         cat >$is_caddyfile <<-EOF
-# don't edit this file #
-# for more info, see https://233boy.com/$is_core/caddy-auto-tls/
-# 不要编辑这个文件 #
-# 更多相关请阅读此文章: https://233boy.com/$is_core/caddy-auto-tls/
-# https://caddyserver.com/docs/caddyfile/options
 {
   admin off
   http_port $is_http_port
